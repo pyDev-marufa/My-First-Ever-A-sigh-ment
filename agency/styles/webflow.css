@@ -1,0 +1,95 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav{
+    display: flex;
+    align-items: center; /* verticle borabor center korbe */
+    justify-content: space-between;  /* duita child er khtre space btween */
+    margin: 0px 200px;   
+}
+
+
+.nav-title{
+    font-weight: 800;
+    font-size: 34px;
+}   
+
+
+.text-primary{
+    color: red;
+}
+
+
+/* shared style */
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 65px;
+    justify-items: center;
+
+}
+.banner-content{
+    max-width: 905px;
+    margin-bottom: 100px;
+
+}
+
+.banner{
+   margin: 258px 300px 258px 558px ;
+   
+}
+
+.header{
+    background-image: url(../../Assets/Hero-bg.png);
+}
+
+#stay-focused{
+    margin-bottom: 200px;
+    margin-right: 400px;
+    margin-left: 300px;
+}
+
+
+/* h3{
+    color: #4E47FF;
+}
+
+span{
+    color: red;
+} */
+
+
+/* .btn-class{ 
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+
+}*/
+
+
+
+/* .header{
+    background-image:url(../../Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right; 
+    background-size: cover;  
+    
+} */
+
+
